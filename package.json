@@ -1,0 +1,24 @@
+{
+  "name": "next-auth-example-jwt",
+  "version": "0.1.0",
+  "author": {
+    "name": "José Alejandro Arias",
+    "email": "aalejandro1993@gmail.com",
+    "url": "https://www.facebook.com/AriasPlus21"
+  },
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "js-cookie": "^2.2.1",
+    "next": "9.4.4",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
